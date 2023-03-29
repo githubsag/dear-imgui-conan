@@ -1,0 +1,3 @@
+[submodule "libraries/dear-imgui/basic/imgui-cmake"]
+	path = libraries/dear-imgui/basic/imgui-cmake
+	url = https://github.com/tamaskenez/imgui-cmake.git
